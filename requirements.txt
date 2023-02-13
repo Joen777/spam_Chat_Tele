@@ -1,0 +1,3 @@
+Pyrogram==2.0.33
+art==5.7
+environs==9.5.0
